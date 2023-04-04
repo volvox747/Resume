@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-family: 'Orbitron', sans-serif ;
+    /* font-weight: 700; */
+}
+
+h3,h4,h5{
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 700;
+    margin: 0;
+}
+p,li{
+    font-family: 'Chakra Petch', sans-serif;
+
+}
+hr{
+    border: solid 0px black;
+    margin: 0px 0px 10px 0px;
+    opacity:1;
+}
+p{
+    margin-bottom: 0;
+}
+.skills{
+    display: flex;
+}
+
